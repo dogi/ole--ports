@@ -1,0 +1,19 @@
+port | url
+---|---
+5980 | umar.nbs.ole.org
+5981 | waqas.nbs.ole.org
+5982 | saba.nbs.ole.org
+5983 | sadia.nbs.ole.org
+5984 | openbell.ole.org
+5985 | vi.ole.org
+5986 | perubell.ole.org
+5987 | somaliabell.ole.org
+5988 | syriabell.ole.org
+5989 | earthbell.ole.org
+5990 | examplebell.ole.org
+5991 | kenyabell.ole.org
+5992 | tanzaniabell.ole.org
+5993 | nbsbell.ole.org
+5994 | nbsbell-qa.ole.org
+5996 | i5obell.ole.org
+5997 | oneroom.ole.org

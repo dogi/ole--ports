@@ -15,5 +15,7 @@ port | url
 5992 | [tanzaniabell.ole.org](http://tanzaniabell.ole.org)
 5993 | [nbsbell.ole.org](http://nbsbell.ole.org)
 5994 | [nbsbell-qa.ole.org](http://nbsbell-qa.ole.org)
+5995 | [corebell.ole.org](http://corebell.ole.org)
 5996 | [i5obell.ole.org](http://i5obell.ole.org)
 5997 | [oneroom.ole.org](http://oneroom.ole.org)
+5998 | [newsyria.ole.org](http://newsyria.ole.org)

@@ -10,7 +10,7 @@ port | url
 5987 | [somaliabell.ole.org](http://somaliabell.ole.org)
 5988 | [syriabell.ole.org](http://syriabell.ole.org)
 5989 | [earthbell.ole.org](http://earthbell.ole.org)
-5990 | [examplebell.ole.org](http://examplebell.ole.org)
+5990 | [madagascarbell.ole.org](http://madagascarbell.ole.org)
 5991 | [kenyabell.ole.org](http://kenyabell.ole.org)
 5992 | [tanzaniabell.ole.org](http://tanzaniabell.ole.org)
 5993 | [nbsbell.ole.org](http://nbsbell.ole.org)

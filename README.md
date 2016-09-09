@@ -13,7 +13,7 @@ port | url
 5990 | [madagascarbell.ole.org](http://madagascarbell.ole.org)
 5991 | [kenyabell.ole.org](http://kenyabell.ole.org)
 5992 | [tanzaniabell.ole.org](http://tanzaniabell.ole.org)
-5993 | [nbsbell.ole.org](http://nbsbell.ole.org)
+5993 | free
 5994 | [nbsbell-qa.ole.org](http://nbsbell-qa.ole.org)
 5995 | [corebell.ole.org](http://corebell.ole.org)
 5996 | [planethealth.ole.org](http://planethealth.ole.org)

@@ -14,7 +14,7 @@ port | url
 5991 | [kenyabell.ole.org](http://kenyabell.ole.org)
 5992 | [tanzaniabell.ole.org](http://tanzaniabell.ole.org)
 5993 | free
-5994 | [nbsbell-qa.ole.org](http://nbsbell-qa.ole.org)
+5994 | free
 5995 | [corebell.ole.org](http://corebell.ole.org)
 5996 | [planethealth.ole.org](http://planethealth.ole.org)
 5997 | [oneroom.ole.org](http://oneroom.ole.org)

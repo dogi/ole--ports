@@ -10,7 +10,7 @@ port | url | version
 5985 | [vi.ole.org](http://vi.ole.org) |
 5986 | [perubell.ole.org](http://perubell.ole.org) |
 5987 | [somaliabell.ole.org](http://somaliabell.ole.org) |
-5988 | [syriabell.ole.org](http://syriabell.ole.org) |
+5988 | [oldsyria.ole.org](http://oldsyria.ole.org) |
 5989 | [earthbell.ole.org](http://earthbell.ole.org) |
 5990 | [madagascarbell.ole.org](http://madagascarbell.ole.org) |
 5991 | [kenyabell.ole.org](http://kenyabell.ole.org) |

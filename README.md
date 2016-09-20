@@ -9,7 +9,7 @@ port | url | version
 5984 | [openbell.ole.org](http://openbell.ole.org) |
 5985 | [vi.ole.org](http://vi.ole.org) |
 5986 | [perubell.ole.org](http://perubell.ole.org) |
-5987 | [somaliabell.ole.org](http://somaliabell.ole.org) |
+5987 | [somaliabell.ole.org](http://somaliabell.ole.org) | 0.12.16
 5988 | [oldsyria.ole.org](http://oldsyria.ole.org) | 0.12.16
 5989 | [earthbell.ole.org](http://earthbell.ole.org) |
 5990 | [madagascarbell.ole.org](http://madagascarbell.ole.org) |

@@ -20,7 +20,7 @@ port | url | version
 5995 | [corebell.ole.org](http://corebell.ole.org) |
 5996 | [planethealth.ole.org](http://planethealth.ole.org) |
 5997 | [oneroom.ole.org](http://oneroom.ole.org) |
-5998 | [newsyria.ole.org](http://newsyria.ole.org) |
+5998 | [newsyria.ole.org](http://newsyria.ole.org) | 0.12.29
 
 ###qa.ole.org
 

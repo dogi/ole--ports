@@ -17,7 +17,7 @@ port | url | version
 5992 | [syriaell.ole.org](http://syriabell.ole.org) | 0.12.49
 5993 | free |
 5994 | free |
-5995 | [corebell.ole.org](http://corebell.ole.org) |
+5995 | [corebell.ole.org](http://corebell.ole.org) | 0.12.48
 5996 | [planethealth.ole.org](http://planethealth.ole.org) |
 5997 | [oneroom.ole.org](http://oneroom.ole.org) |
 5998 | [newsyria.ole.org](http://newsyria.ole.org) | 0.12.29

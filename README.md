@@ -2,10 +2,10 @@
 
 port | url | version
 ---|---|---
-5980 | [umar.nbs.ole.org](http://umar.nbs.ole.org) |
-5981 | [waqas.nbs.ole.org](http://waqas.nbs.ole.org) |
-5982 | [saba.nbs.ole.org](http://saba.nbs.ole.org) |
-5983 | [sadia.nbs.ole.org](http://sadia.nbs.ole.org) |
+5980 | [umar.nbs.ole.org](http://umar.nbs.ole.org) | newest
+5981 | [waqas.nbs.ole.org](http://waqas.nbs.ole.org) | newest
+5982 | [saba.nbs.ole.org](http://saba.nbs.ole.org) | newest
+5983 | [sadia.nbs.ole.org](http://sadia.nbs.ole.org) | newest
 5984 | [openbell.ole.org](http://openbell.ole.org) |
 5985 | [vi.ole.org](http://vi.ole.org) |
 5986 | [perubell.ole.org](http://perubell.ole.org) | 0.12.9

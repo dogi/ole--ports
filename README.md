@@ -19,7 +19,7 @@ port | url | version
 5994 | free |
 5995 | [corebell.ole.org](http://corebell.ole.org) | 0.12.48
 5996 | [planethealth.ole.org](http://planethealth.ole.org) | 0.12.27
-5997 | [oneroom.ole.org](http://oneroom.ole.org) |
+5997 | [oneroom.ole.org](http://oneroom.ole.org) | 0.12.26+
 5998 | [newsyria.ole.org](http://newsyria.ole.org) | 0.12.29
 
 ###qa.ole.org

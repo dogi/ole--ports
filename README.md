@@ -7,7 +7,7 @@ port | url | version
 5982 | [saba.nbs.ole.org](http://saba.nbs.ole.org) | newest
 5983 | [sadia.nbs.ole.org](http://sadia.nbs.ole.org) | newest
 5984 | [openbell.ole.org](http://openbell.ole.org) | 0.12.16
-5985 | [vi.ole.org](http://vi.ole.org) | 0.12.16
+5985 | [old.vi.ole.org](http://old.vi.ole.org) | 0.12.16
 5986 | [perubell.ole.org](http://perubell.ole.org) | 0.12.9
 5987 | [somaliabell.ole.org](http://somaliabell.ole.org) | 0.12.16
 5988 | [oldsyria.ole.org](http://oldsyria.ole.org) | 0.12.16

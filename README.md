@@ -22,7 +22,7 @@ port | url | version
 5996 | [planethealth.ole.org](http://planethealth.ole.org) | 0.12.27
 5997 | [oneroom.ole.org](http://oneroom.ole.org) | 0.12.26+X
 5998 | [newsyria.ole.org](http://newsyria.ole.org) | 0.12.29
-5999 | [vi.ole.org](http://vi.ole.org) | 0.12.52
+5999 | [vi.ole.org](http://vi.ole.org) | 0.12.53-1
 
 
 ###qa.ole.org

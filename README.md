@@ -35,3 +35,7 @@ port | url | version
 5985 | [new.qa.ole.org](http://new.qa.ole.org) | newest
 
 ##centers:
+
+###hammock.media.mit.edu
+
+###qa.ole.org

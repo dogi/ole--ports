@@ -41,6 +41,7 @@ port | url | version
 port | url | description
 ---|---|---
 5997 | nbs.ole.org | public
+5985 | old.vi.ole.org | vi
 
 ###qa.ole.org
 

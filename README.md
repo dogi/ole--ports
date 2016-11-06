@@ -4,12 +4,12 @@
 
 port | url | version
 ---|---|---
-5978 | [laxman.ht.ole.org](http://laxman.ht.ole.org) | newest
-5979 | [sente.vi.ole.org](http://sente.vi.ole.org) | newest
-5980 | [umar.nbs.ole.org](http://umar.nbs.ole.org) | newest
-5981 | [waqas.nbs.ole.org](http://waqas.nbs.ole.org) | newest
-5982 | [saba.nbs.ole.org](http://saba.nbs.ole.org) | newest
-5983 | [sadia.nbs.ole.org](http://sadia.nbs.ole.org) | newest
+5978 | [laxman.ht.ole.org](http://laxman.ht.ole.org) | changing
+5979 | [sente.vi.ole.org](http://sente.vi.ole.org) | changing
+5980 | [umar.nbs.ole.org](http://umar.nbs.ole.org) | changing
+5981 | [waqas.nbs.ole.org](http://waqas.nbs.ole.org) | changing
+5982 | [saba.nbs.ole.org](http://saba.nbs.ole.org) | changing
+5983 | [sadia.nbs.ole.org](http://sadia.nbs.ole.org) | changing
 5984 | [openbell.ole.org](http://openbell.ole.org) | 0.12.16
 5985 | [old.vi.ole.org](http://old.vi.ole.org) | 0.12.16+X
 5986 | [perubell.ole.org](http://perubell.ole.org) | 0.12.9

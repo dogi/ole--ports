@@ -20,7 +20,7 @@ port | url | version
 5989 | [earthbell.ole.org](http://earthbell.ole.org) | 0.12.15+35
 5990 | [madagascarbell.ole.org](http://madagascarbell.ole.org) | 0.12.28
 5991 | [kenyabell.ole.org](http://kenyabell.ole.org) | 0.12.29
-5992 | [syriaell.ole.org](http://syriabell.ole.org) | 0.12.49
+5992 | [syriaell.ole.org](http://syriabell.ole.org) | 0.12.55
 5993 | free |
 5994 | free |
 5995 | [corebell.ole.org](http://corebell.ole.org) | 0.12.48

@@ -19,7 +19,7 @@ port | url | version
 5988 | [oldsyria.ole.org](http://oldsyria.ole.org) | 0.12.16
 5989 | [earthbell.ole.org](http://earthbell.ole.org) | 0.12.15+35
 5990 | [madagascarbell.ole.org](http://madagascarbell.ole.org) | 0.12.28
-5991 | [kenyabell.ole.org](http://kenyabell.ole.org) | 0.12.55
+5991 | [kenyabell.ole.org](http://kenyabell.ole.org) | 0.12.58
 5992 | [syriabell.ole.org](http://syriabell.ole.org) | 0.12.59
 5993 | free |
 5994 | free |

@@ -16,7 +16,7 @@ port | url | version
 5985 | [old.vi.ole.org](http://old.vi.ole.org) | 0.12.16+X
 5986 | [perubell.ole.org](http://perubell.ole.org) | 0.12.9
 5987 | [somaliabell.ole.org](http://somaliabell.ole.org) | 0.12.59
-5988 | [oldsyria.ole.org](http://oldsyria.ole.org) | 0.12.16
+5988 | free |
 5989 | [earthbell.ole.org](http://earthbell.ole.org) | 0.12.15+35
 5990 | [madagascarbell.ole.org](http://madagascarbell.ole.org) | 0.12.28
 5991 | [kenyabell.ole.org](http://kenyabell.ole.org) | 0.12.59
@@ -26,7 +26,7 @@ port | url | version
 5995 | [corebell.ole.org](http://corebell.ole.org) | 0.12.48
 5996 | [planethealth.ole.org](http://planethealth.ole.org) | 0.12.27
 5997 | [oneroom.ole.org](http://oneroom.ole.org) | 0.12.26+X
-5998 | free |
+5998 | [oldsyria.ole.org](http://oldsyria.ole.org) | 0.12.16
 5999 | [vi.ole.org](http://vi.ole.org) | 0.12.53-1
 
 

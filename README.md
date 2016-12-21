@@ -18,7 +18,7 @@ port | url | version
 5987 | [somaliabell.ole.org](http://somaliabell.ole.org) | 0.12.59
 5988 | free |
 5989 | [earthbell.ole.org](http://earthbell.ole.org) | 0.12.15+35
-5990 | [madagascarbell.ole.org](http://madagascarbell.ole.org) | 0.12.59
+5990 | [madagascarbell.ole.org](http://madagascarbell.ole.org) | 0.12.59+L
 5991 | [kenyabell.ole.org](http://kenyabell.ole.org) | 0.12.59
 5992 | [syriabell.ole.org](http://syriabell.ole.org) | 0.12.59
 5993 | free |

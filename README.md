@@ -26,7 +26,7 @@ port | url | version
 5995 | [corebell.ole.org](http://corebell.ole.org) | 0.12.48
 5996 | [planethealth.ole.org](http://planethealth.ole.org) | 0.12.59
 5997 | [oneroom.ole.org](http://oneroom.ole.org) | 0.12.26+X
-5998 | free |
+5998 | [uganda.planethealth.org](http://uganda.planethealth.org) | 0.12.59
 5999 | [vi.ole.org](http://vi.ole.org) | 0.12.59
 
 

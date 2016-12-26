@@ -11,7 +11,7 @@ port | url | version
 5980 | [umar.nbs.ole.org](http://umar.nbs.ole.org) | changing
 5981 | [waqas.nbs.ole.org](http://waqas.nbs.ole.org) | changing
 5982 | [saba.nbs.ole.org](http://saba.nbs.ole.org) | changing
-5983 | [sadia.nbs.ole.org](http://sadia.nbs.ole.org) | changing
+5983 | free |
 5984 | [openbell.ole.org](http://openbell.ole.org) | 0.12.59
 5985 | [old.vi.ole.org](http://old.vi.ole.org) | 0.12.16+X
 5986 | [perubell.ole.org](http://perubell.ole.org) | 0.12.59

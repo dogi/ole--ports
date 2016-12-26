@@ -9,7 +9,7 @@ port | url | version
 5978 | [laxman.ht.ole.org](http://laxman.ht.ole.org) | changing
 5979 | [sente.vi.ole.org](http://sente.vi.ole.org) | changing
 5980 | [umar.nbs.ole.org](http://umar.nbs.ole.org) | changing
-5981 | [waqas.nbs.ole.org](http://waqas.nbs.ole.org) | changing
+5981 | free |
 5982 | [saba.nbs.ole.org](http://saba.nbs.ole.org) | changing
 5983 | free |
 5984 | [openbell.ole.org](http://openbell.ole.org) | 0.12.59

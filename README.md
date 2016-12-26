@@ -10,7 +10,7 @@ port | url | version
 5979 | [sente.vi.ole.org](http://sente.vi.ole.org) | changing
 5980 | [umar.nbs.ole.org](http://umar.nbs.ole.org) | changing
 5981 | free |
-5982 | [saba.nbs.ole.org](http://saba.nbs.ole.org) | changing
+5982 | free |
 5983 | free |
 5984 | [openbell.ole.org](http://openbell.ole.org) | 0.12.59
 5985 | [old.vi.ole.org](http://old.vi.ole.org) | 0.12.16+X

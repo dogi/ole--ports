@@ -52,4 +52,4 @@ port | url | description
 
 port | url | description
 ---|---|---
-5983 | center.qa..ole.org | qa
+5983 | center.qa.ole.org | qa

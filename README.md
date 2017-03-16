@@ -41,16 +41,9 @@ port | url | version
 
 ##centers:
 
-###hammock.media.mit.edu
-
-port | url | description
----|---|---
-5989 | earthplanet.ole.org | public
-5997 | nbs.ole.org | dev
-5985 | old.vi.ole.org | vi
-
-###qa.ole.org
-
-port | url | description
----|---|---
-5983 | center.qa.ole.org | qa
+port | server | url | description
+---|---|---|---
+5989 | hammock.media.mit.edu | earthplanet.ole.org | public
+5997 | hammock.media.mit.edu | nbs.ole.org | dev
+5985 | hammock.media.mit.edu | old.vi.ole.org | vi
+5983 | qa.ole.org | center.qa.ole.org | qa

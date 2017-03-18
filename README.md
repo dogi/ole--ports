@@ -41,9 +41,9 @@ port | url | version
 
 ##centers:
 
-port | server | url | description
+port | server | nation | description
 ---|---|---|---
-5989 | hammock.media.mit.edu | earthbell.ole.org | public
-5997 | hammock.media.mit.edu | nbs.ole.org | dev
-5985 | hammock.media.mit.edu | old.vi.ole.org | vi
-5983 | qa.ole.org | center.qa.ole.org | qa
+5989 | hammock.media.mit.edu | [earthbell.ole.org](http://earthbell.ole.org:5989/_utils/database.html?nations/_design/bell/_view/getAllNations) | public
+5997 | hammock.media.mit.edu | [nbs.ole.org](http://nbs.ole.org:5997/_utils/database.html?nations/_design/bell/_view/getAllNations) | dev
+5985 | hammock.media.mit.edu | [old.vi.ole.org](http://old.vi.ole.org:5985/_utils/database.html?nations/_design/bell/_view/getAllNations) | vi
+5983 | qa.ole.org | [center.qa.ole.org](http://center.qa.ole.org:5983/_utils/database.html?nations/_design/bell/_view/getAllNations) | qa

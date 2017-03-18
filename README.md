@@ -1,6 +1,6 @@
-##nations:
+## nations:
 
-###hammock.media.mit.edu
+### hammock.media.mit.edu
 
 port | url | version
 ---|---|---
@@ -32,14 +32,14 @@ port | url | version
 5999 | [vi.ole.org](http://vi.ole.org) | 0.12.59
 
 
-###qa.ole.org
+### qa.ole.org
 
 port | url | version
 ---|---|---
 5984 | [old.qa.ole.org](http://old.qa.ole.org) | 0.12.59
 5985 | [new.qa.ole.org](http://new.qa.ole.org) | newest
 
-##centers:
+## centers:
 
 port | server | nation | description
 ---|---|---|---

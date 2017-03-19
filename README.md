@@ -41,9 +41,9 @@ port | url | version
 
 ## centers:
 
-port | server | nation | description
+port | server | nation | communities
 ---|---|---|---
-5989 | hammock.media.mit.edu | [earthbell.ole.org](http://earthbell.ole.org:5989/_utils/database.html?nations/_design/bell/_view/getAllNations) | public
-5997 | hammock.media.mit.edu | [nbs.ole.org](http://nbs.ole.org:5997/_utils/database.html?nations/_design/bell/_view/getAllNations) | dev
-5985 | hammock.media.mit.edu | [old.vi.ole.org](http://old.vi.ole.org:5985/_utils/database.html?nations/_design/bell/_view/getAllNations) | vi
-5983 | qa.ole.org | [center.qa.ole.org](http://center.qa.ole.org:5983/_utils/database.html?nations/_design/bell/_view/getAllNations) | qa
+5989 | hammock.media.mit.edu | [earthbell.ole.org](http://earthbell.ole.org:5989/_utils/database.html?nations/_design/bell/_view/getAllNations) | [public](http://earthbell.ole.org:5989/_utils/database.html?communityregistrationrequests/_design/bell/_view/getAllCommunities)
+5997 | hammock.media.mit.edu | [nbs.ole.org](http://nbs.ole.org:5997/_utils/database.html?nations/_design/bell/_view/getAllNations) | [dev](http://nbs.ole.org:5997/_utils/database.html?communityregistrationrequests/_design/bell/_view/getAllCommunities)
+5985 | hammock.media.mit.edu | [old.vi.ole.org](http://old.vi.ole.org:5985/_utils/database.html?nations/_design/bell/_view/getAllNations) | [vi](http://old.vi.ole.org:5985/_utils/database.html?communityregistrationrequests/_design/bell/_view/getAllCommunities)
+5983 | qa.ole.org | [center.qa.ole.org](http://center.qa.ole.org:5983/_utils/database.html?nations/_design/bell/_view/getAllNations) | [qa](http://center.qa.ole.org:5983/_utils/database.html?communityregistrationrequests/_design/bell/_view/getAllCommunities)
